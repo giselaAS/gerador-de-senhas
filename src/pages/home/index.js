@@ -24,7 +24,7 @@ export function Home() {
   return(
     <View style={styles.container}>
       <Image 
-        source={require("../../assents/logo.png")}
+        source={require("../../assets/logo.png")}
         style={styles.logo}        
       />
 
